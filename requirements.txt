@@ -1,0 +1,32 @@
+autokeras==1.0.13
+autopep8==1.5.5
+fastapi==0.65.1
+fuzzywuzzy==0.18.0
+ipython==7.21.0
+Keras==2.4.3
+Keras-Preprocessing==1.1.2
+keras-tuner @ git+https://github.com/keras-team/keras-tuner.git@86cff68ae4c7f35bb6557e75ec6a60e0766454d2
+lightgbm==3.2.0
+matplotlib==3.3.4
+missingno==0.4.2
+mysql-connector==2.2.9
+nltk @ file:///tmp/build/80754af9/nltk_1592496090529/work
+numpy==1.19.5
+pandas==1.2.3
+pep8==1.7.1
+regex @ file:///tmp/build/80754af9/regex_1602786672676/work
+scikit-image==0.17.2
+scikit-learn==0.24.1
+scikit-plot==0.3.7
+scipy==1.4.1
+seaborn==0.11.1
+sentence-transformers==1.1.1
+shapash==1.3.2
+spacy==3.0.6
+SQLAlchemy @ file:///tmp/build/80754af9/sqlalchemy_1603397987316/work
+streamlit==0.82.0
+tensorflow==2.5.0
+tokenizers==0.10.2
+transformers==4.5.1
+virtualenv==20.4.2
+xgboost==1.3.3
